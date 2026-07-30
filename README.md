@@ -1,6 +1,6 @@
-# Halo! 👋 Aku AruUchiumi
+# Halo! 👋 Aku Aru
 
-Aku siswa RPL yang lagi belajar ngoding dari nol. Saat ini aku lagi semangat-semangatnya belajar!
+Aku siswa X RPL 2 dari SMKN 1 Boyolsngu yang lagi belajar ngoding dari nol. Saat ini aku lagi semangat-semangatnya belajar!
 
 ### 🌱 Yang lagi aku pelajari sekarang:
 - Dasar-dasar HTML dan CSS
