@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halo! 👋 Aku AruUchiumi
 
-<!--
-**AruUchiumi/AruUchiumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aku siswa RPL yang lagi belajar ngoding dari nol. Saat ini aku lagi semangat-semangatnya belajar!
 
-Here are some ideas to get you started:
+### 🌱 Yang lagi aku pelajari sekarang:
+- Dasar-dasar HTML dan CSS
+- Cara pakai GitHub untuk nyimpen kode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Targetku ke depan:
+- Bisa bikin website portofolio pertamaku sendiri.
+- Paham cara kerja Git dan GitHub.
+
+### 💬 Cara hubungin aku:
+- Kalau ada yang mau diajarin atau diajak ngobrol soal coding, boleh banget!
