@@ -1,14 +1,14 @@
-# Halo! 👋 Aku Aru
+# Halo! 👋
 
-Aku siswa X RPL 2 dari SMKN 1 Boyolsngu yang lagi belajar ngoding dari nol. Saat ini aku lagi semangat-semangatnya belajar!
+# I’m a student in class X RPL 2 at SMKN 1 Boyolangu, and I’m learning to code from scratch.
 
-### 🌱 Yang lagi aku pelajari sekarang:
-- Dasar-dasar HTML dan CSS
-- Cara pakai GitHub untuk nyimpen kode
+### 🌱 What do i learn from now:
+- HTML and CSS Basics.
+- How to use GitHub to store code.
 
-### 🎯 Targetku ke depan:
-- Bisa bikin website portofolio pertamaku sendiri.
-- Paham cara kerja Git dan GitHub.
+### 🎯 My Target:
+- Make my first website portofolio.
+- Understand how Git and GitHub work.
 
-### 💬 Cara hubungin aku:
-- Kalau ada yang mau diajarin atau diajak ngobrol soal coding, boleh banget!
+### 💬 How to contact me:
+- You can contact me on Instagram
